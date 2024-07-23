@@ -1,0 +1,4 @@
+format = "best"
+codec = "mp3"
+bitrate = 320
+thumbnail = true
